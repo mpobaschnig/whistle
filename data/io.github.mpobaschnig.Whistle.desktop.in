@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=whistle
+Exec=whistle
+Icon=io.github.mpobaschnig.Whistle
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
