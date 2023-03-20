@@ -1,0 +1,10 @@
+BasedOnStyle: GNU
+AlwaysBreakAfterDefinitionReturnType: All
+BreakBeforeBinaryOperators: None
+AlignConsecutiveAssignments: true
+AlignConsecutiveDeclarations: true
+BinPackParameters: false
+BinPackArguments: false
+SpaceAfterCStyleCast: true
+PointerAlignment: Right
+ColumnLimit: 0
