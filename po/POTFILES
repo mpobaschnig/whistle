@@ -1,0 +1,6 @@
+data/io.github.mpobaschnig.Whistle.desktop.in
+data/io.github.mpobaschnig.Whistle.appdata.xml.in
+data/io.github.mpobaschnig.Whistle.gschema.xml
+src/main.c
+src/whistle-window.c
+src/whistle-window.ui
