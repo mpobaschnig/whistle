@@ -10,6 +10,17 @@
         <property name="orientation">vertical</property>
         <child>
           <object class="GtkHeaderBar" id="header_bar">
+            <property name="title-widget">
+              <object class="GtkLabel">
+                <property name="label" translatable="yes">Whistle</property>
+                <property name="single-line-mode">True</property>
+                <property name="ellipsize">end</property>
+                <property name="width-chars">5</property>
+                <style>
+                  <class name="title"/>
+                </style>
+              </object>
+            </property>
             <child type="end">
               <object class="GtkMenuButton">
                 <property name="icon-name">open-menu-symbolic</property>
