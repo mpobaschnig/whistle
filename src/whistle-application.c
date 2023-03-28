@@ -77,7 +77,7 @@ whistle_application_about_action (GSimpleAction *action,
 
   adw_show_about_window (window,
                          "application-name",
-                         "whistle",
+                         "Whistle",
                          "application-icon",
                          "io.github.mpobaschnig.Whistle",
                          "developer-name",
