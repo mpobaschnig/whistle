@@ -1,7 +1,7 @@
 {
     "id" : "io.github.mpobaschnig.Whistle",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "master",
+    "runtime-version" : "44",
     "sdk" : "org.gnome.Sdk",
     "command" : "whistle",
     "finish-args" : [
