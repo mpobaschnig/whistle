@@ -43,7 +43,7 @@
               <object class="GtkBox">
                 <property name="hexpand">true</property>
                 <child>
-                  <object class="GtkLabel" id="_seconds_label">
+                  <object class="GtkLabel" id="seconds_label">
                     <property name="label">45</property>
                     <property name="hexpand">true</property>
                     <style>
