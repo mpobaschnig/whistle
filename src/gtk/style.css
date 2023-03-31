@@ -1,0 +1,15 @@
+button.large {
+    min-width: 48px;
+    min-height: 48px;
+}
+
+button.medium {
+    min-width: 36px;
+    min-height: 36px;
+}
+
+.timer-label {
+    font-size: 500%;
+    font-weight: 300;
+    font-feature-settings: "tnum" 1;
+}
